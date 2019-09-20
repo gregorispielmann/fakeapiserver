@@ -1,16 +1,20 @@
-[{
-    "id": 1,
-    "first_name": "Denyse",
-    "last_name": "Gerrad",
-    "email": "dgerrad0@weebly.com"
-  }, {
-    "id": 2,
-    "first_name": "Jillayne",
-    "last_name": "Skerman",
-    "email": "jskerman1@so-net.ne.jp"
-  }, {
-    "id": 3,
-    "first_name": "Nanon",
-    "last_name": "Fookes",
-    "email": "nfookes2@bloglines.com"
-  }]
+{
+    "users":
+        [ {
+            "id": 1,
+            "first_name": "Denyse",
+            "last_name": "Gerrad",
+            "email": "dgerrad0@weebly.com"
+          }, {
+            "id": 2,
+            "first_name": "Jillayne",
+            "last_name": "Skerman",
+            "email": "jskerman1@so-net.ne.jp"
+          }, {
+            "id": 3,
+            "first_name": "Nanon",
+            "last_name": "Fookes",
+            "email": "nfookes2@bloglines.com"
+          }
+    ]
+}
